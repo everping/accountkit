@@ -1,0 +1,16 @@
+*~
+.*.swp
+*.py[co]
+*.egg
+*.egg-info
+*.iml
+MANIFEST
+dist/
+build/
+.idea/
+.DS_Store
+.cache
+venv/
+data/
+config.json
+env-setup.sh
